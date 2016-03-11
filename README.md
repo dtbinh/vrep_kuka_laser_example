@@ -1,4 +1,4 @@
-# vrep_kuka_laser_example
+# vrep kuka laser example
 example of integration of vrep with ros
 
 This package (tested in indigo) contains two files: 
